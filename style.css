@@ -1,0 +1,18 @@
+* {
+    margin: o;
+    padding: o;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+.box {
+    background-color: brown;
+}
+
+#unique {
+    background-color: darkslategrey;
+}
+
